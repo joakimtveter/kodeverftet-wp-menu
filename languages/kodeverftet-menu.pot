@@ -1,0 +1,142 @@
+# Copyright (C) 2024 Joakim Tveter
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodeverftet Menu 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kodeverftet-menu\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-15T13:41:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: kodeverftet-menu\n"
+
+#. Plugin Name of the plugin
+#: kodeverftet-menu.php
+msgid "Kodeverftet Menu"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: kodeverftet-menu.php
+msgid "https://github.com/joakimtveter/kodeverftet-wp-menu"
+msgstr ""
+
+#. Description of the plugin
+#: kodeverftet-menu.php
+msgid "A Custom Post Type plugin to add a restaurant menu."
+msgstr ""
+
+#. Author of the plugin
+#: kodeverftet-menu.php
+msgid "Joakim Tveter"
+msgstr ""
+
+#. Author URI of the plugin
+#: kodeverftet-menu.php
+msgid "https://joakimtveter.no/"
+msgstr ""
+
+#: kodeverftet-menu.php:31
+#: kodeverftet-menu.php:41
+#: kodeverftet-menu.php:48
+msgid "Menu"
+msgstr ""
+
+#: kodeverftet-menu.php:32
+msgid "Dish"
+msgstr ""
+
+#: kodeverftet-menu.php:33
+msgid "Add new"
+msgstr ""
+
+#: kodeverftet-menu.php:34
+msgid "Add new Dish"
+msgstr ""
+
+#: kodeverftet-menu.php:35
+msgid "Edit Dish"
+msgstr ""
+
+#: kodeverftet-menu.php:36
+msgid "New Dish"
+msgstr ""
+
+#: kodeverftet-menu.php:37
+msgid "View Dish"
+msgstr ""
+
+#: kodeverftet-menu.php:38
+msgid "Search Dishes"
+msgstr ""
+
+#: kodeverftet-menu.php:39
+msgid "No dishes found"
+msgstr ""
+
+#: kodeverftet-menu.php:40
+msgid "No dishes found in trash"
+msgstr ""
+
+#: kodeverftet-menu.php:42
+msgid "Dish Attributes"
+msgstr ""
+
+#: kodeverftet-menu.php:43
+msgid "Uploaded to this dish"
+msgstr ""
+
+#: kodeverftet-menu.php:44
+msgid "Featured image"
+msgstr ""
+
+#: kodeverftet-menu.php:45
+msgid "Set featured image"
+msgstr ""
+
+#: kodeverftet-menu.php:46
+msgid "Remove featured image"
+msgstr ""
+
+#: kodeverftet-menu.php:47
+msgid "Use as featured image"
+msgstr ""
+
+#: kodeverftet-menu.php:49
+msgid "Filter dishes list"
+msgstr ""
+
+#: kodeverftet-menu.php:50
+msgid "Dishes list navigation"
+msgstr ""
+
+#: kodeverftet-menu.php:51
+msgid "Dishes list"
+msgstr ""
+
+#: kodeverftet-menu.php:52
+msgid "Dish published"
+msgstr ""
+
+#: kodeverftet-menu.php:53
+msgid "Dish published privately"
+msgstr ""
+
+#: kodeverftet-menu.php:54
+msgid "Dish reverted to draft"
+msgstr ""
+
+#: kodeverftet-menu.php:55
+msgid "Dish trashed"
+msgstr ""
+
+#: kodeverftet-menu.php:56
+msgid "Dish scheduled"
+msgstr ""
+
+#: kodeverftet-menu.php:62
+msgid "Post type description"
+msgstr ""

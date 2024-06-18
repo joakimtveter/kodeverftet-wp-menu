@@ -1,0 +1,143 @@
+# Copyright (C) 2024 Joakim Tveter
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodeverftet Menu 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kodeverftet-menu\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Bokmål)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-15T13:41:02+00:00\n"
+"PO-Revision-Date: 2024-04-15 13:50+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: kodeverftet-menu\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2"
+
+#. Plugin Name of the plugin
+#: kodeverftet-menu.php
+msgid "Kodeverftet Menu"
+msgstr "Resturant Meny"
+
+#. Plugin URI of the plugin
+#: kodeverftet-menu.php
+msgid "https://github.com/joakimtveter/kodeverftet-wp-menu"
+msgstr "https://github.com/joakimtveter/kodeverftet-wp-menu"
+
+#. Description of the plugin
+#: kodeverftet-menu.php
+msgid "A Custom Post Type plugin to add a restaurant menu."
+msgstr "En Custom Post Type-plugin for å legge til en restaurantmeny."
+
+#. Author of the plugin
+#: kodeverftet-menu.php
+msgid "Joakim Tveter"
+msgstr "Joakim Tveter"
+
+#. Author URI of the plugin
+#: kodeverftet-menu.php
+msgid "https://joakimtveter.no/"
+msgstr "https://joakimtveter.no/"
+
+#: kodeverftet-menu.php:31 kodeverftet-menu.php:41 kodeverftet-menu.php:48
+msgid "Menu"
+msgstr "Meny"
+
+#: kodeverftet-menu.php:32
+msgid "Dish"
+msgstr "Matrett"
+
+#: kodeverftet-menu.php:33
+msgid "Add new"
+msgstr "Legg til ny"
+
+#: kodeverftet-menu.php:34
+msgid "Add new Dish"
+msgstr "Legg til ny matrett"
+
+#: kodeverftet-menu.php:35
+msgid "Edit Dish"
+msgstr "Rediger Matrett"
+
+#: kodeverftet-menu.php:36
+msgid "New Dish"
+msgstr "Ny Matrett"
+
+#: kodeverftet-menu.php:37
+msgid "View Dish"
+msgstr "Vis Matrett"
+
+#: kodeverftet-menu.php:38
+msgid "Search Dishes"
+msgstr ""
+
+#: kodeverftet-menu.php:39
+msgid "No dishes found"
+msgstr "Ingen matretter funnet"
+
+#: kodeverftet-menu.php:40
+msgid "No dishes found in trash"
+msgstr ""
+
+#: kodeverftet-menu.php:42
+msgid "Dish Attributes"
+msgstr "Matrettattributter"
+
+#: kodeverftet-menu.php:43
+msgid "Uploaded to this dish"
+msgstr ""
+
+#: kodeverftet-menu.php:44
+msgid "Featured image"
+msgstr ""
+
+#: kodeverftet-menu.php:45
+msgid "Set featured image"
+msgstr "Velg hovedbilde"
+
+#: kodeverftet-menu.php:46
+msgid "Remove featured image"
+msgstr "Fjern hovedbilde"
+
+#: kodeverftet-menu.php:47
+msgid "Use as featured image"
+msgstr "Bruk som hovedbilde"
+
+#: kodeverftet-menu.php:49
+msgid "Filter dishes list"
+msgstr ""
+
+#: kodeverftet-menu.php:50
+msgid "Dishes list navigation"
+msgstr ""
+
+#: kodeverftet-menu.php:51
+msgid "Dishes list"
+msgstr ""
+
+#: kodeverftet-menu.php:52
+msgid "Dish published"
+msgstr "Matrett publisert"
+
+#: kodeverftet-menu.php:53
+msgid "Dish published privately"
+msgstr "Matrett publisert privat"
+
+#: kodeverftet-menu.php:54
+msgid "Dish reverted to draft"
+msgstr "Matrett omgjort til utkast"
+
+#: kodeverftet-menu.php:55
+msgid "Dish trashed"
+msgstr "Matrett lagt i papirkurv"
+
+#: kodeverftet-menu.php:56
+msgid "Dish scheduled"
+msgstr "Publisering av matrett planlagt"
+
+#: kodeverftet-menu.php:62
+msgid "Post type description"
+msgstr ""
